@@ -1,19 +1,19 @@
 {
-    "name": "mikechip/chatapi",
-    "description": "Simple middleware to work with Chat-API.com",
+    "name": "hasanbasri1993/w2a-api",
+    "description": "Simple middleware to work",
     "type": "library",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mikechip/whatsapp-chatapi-sdk"
+            "url": "https://github.com/hasanbasri1993/whatsapp-chatapi-sdk"
         }
     ],
-    "version": "2.0.0",
+    "version": "2.0.1",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Boris Stelmakh",
-            "email": "mikael.chip@gmail.com"
+            "name": "Hasan Basri",
+            "email": "hasanbasri1493@gmail.com"
         }
     ],
     "autoload": {
